@@ -1,0 +1,22 @@
+[submodule "vendor/glfw"]
+	path = vendor/glfw
+	url = https://github.com/JulesTopart/glfw.git
+[submodule "vendor/glm"]
+	path = vendor/glm
+	url = https://github.com/g-truc/glm.git
+[submodule "vendor/imgui"]
+	path = vendor/imgui
+	url = https://github.com/JulesTopart/imgui.git
+	branch = docking
+[submodule "vendor/assimp"]
+	path = vendor/assimp
+	url = https://github.com/AminAliari/assimp.git
+[submodule "vendor/tinyfiledialogs"]
+	path = vendor/tinyfiledialogs
+	url = https://github.com/JulesTopart/tinyfiledialogs.git
+[submodule "vendor/tinyxml2--force"]
+	path = vendor/tinyxml2--force
+	url = https://github.com/JulesTopart/tinyxml2.git
+[submodule "vendor/tinyxml2"]
+	path = vendor/tinyxml2
+	url = https://github.com/JulesTopart/tinyxml2.git
