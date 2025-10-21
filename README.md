@@ -34,11 +34,6 @@ git clone --recurse-submodules https://github.com/runeworks-engineering/merlin.e
 3. **Open MVSC Solution**
    - Open the `.sln` file in Microsoft Visual Studio.
 
-4. **Compile Merlin**
-   - Right click on the `merlin` project, under `Library`, and click `Generate`
-
-The static library will be compiled and available inside the `bin` directory.
-
 ## Example Usage
 
 Merlin has several examples that can be used as a starting point.
@@ -58,20 +53,6 @@ Each of these examples showcases a specific feature of the library:
 
 
 ---
-
-## Galery
-
-**Rendering**
-
-![](doc/images/venus.jpg)
-
-**Physics Sim**
-
-![](doc/images/akinci.png)
-
-![](doc/images/merlin.raytracing.jpg)
-
-![](doc/images/SLS.reconstruct.jpg)
 
 ## Limitations and Development Status
 
@@ -113,9 +94,4 @@ To cite Merlin you can use this BibTeX entry:
   url = {https://github.com/runeworks-engineering/merlin.engine},
 }
 ```
-
-# References
-
-- Position based fluids [Position based fluids by Miles Macklin and Matthias Müller](https://dl.acm.org/doi/10.1145/2461912.2461984)
-- Smoothed Particle Hydrodynamics Techniques for the Physics Based Simulation of Fluids and Solids [A course on Smoothed Particle Hydrodynamics (SPH)](https://sph-tutorial.physics-simulation.org/)
 
